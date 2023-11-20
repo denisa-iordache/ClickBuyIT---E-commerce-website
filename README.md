@@ -1,5 +1,5 @@
 # ClickBuyIT-E-commerce-website
-##Pagina Acasă
+## Pagina Acasă
 ![image](https://github.com/denisa-iordache/ClickBuyIT-E-commerce-website/assets/74931542/c3cc58f6-edf7-4bc9-aecc-34be68108abc)
 ## Catalogul de produse
 ![image](https://github.com/denisa-iordache/ClickBuyIT-E-commerce-website/assets/74931542/f8ae87e2-b90e-469a-b2d7-a81c16f5b7f3)
@@ -21,6 +21,9 @@
 ![image](https://github.com/denisa-iordache/ClickBuyIT-E-commerce-website/assets/74931542/3a687f69-ebbf-4197-966f-c9b55c06507c)
 ## Email comandă
 ![image](https://github.com/denisa-iordache/ClickBuyIT-E-commerce-website/assets/74931542/fbea11f3-de0e-4b33-809d-0260036348f6)
+## Pagina de profil
+![image](https://github.com/denisa-iordache/ClickBuyIT-E-commerce-website/assets/74931542/5992ff19-b4db-40b1-8253-fbe1c29831dc)
+![image](https://github.com/denisa-iordache/ClickBuyIT-E-commerce-website/assets/74931542/515c658b-f178-4334-b440-8eea9861e522)
 ## Administrare
 ### Produse
 ![image](https://github.com/denisa-iordache/ClickBuyIT-E-commerce-website/assets/74931542/cf3b59ad-eb4d-41da-9897-b622fd077d15)
